@@ -1,0 +1,35 @@
+{
+  "name": "vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^1.0.2",
+    "axios": "^1.5.1",
+    "core-js": "^3.8.3",
+    "echarts": "^5.5.1",
+    "element-ui": "^2.15.14",
+    "postcss": "^8.4.39",
+    "tough-cookie": "^4.1.4",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "wangeditor": "^4.7.15"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "postcss-loader": "^8.1.1",
+    "vue-template-compiler": "^2.6.14",
+    "whatwg-fetch": "^3.6.20"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
